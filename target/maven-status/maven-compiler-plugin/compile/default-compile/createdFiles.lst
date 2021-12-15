@@ -1,0 +1,14 @@
+generated\MovieCatalog.class
+project1\processor\Processor.class
+project1\selector\XQuerySelector.class
+generated\Stats.class
+generated\Directors.class
+project1\htmlviewer\HTMLViewer.class
+generated\Movie.class
+project1\selector\Selector.class
+generated\ObjectFactory.class
+generated\Writers.class
+project1\common\Common.class
+generated\DirectorList.class
+generated\Cast.class
+generated\DirectorMovies.class

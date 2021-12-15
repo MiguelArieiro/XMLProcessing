@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<directorList>
+    <directorMovies>
+        <name>Frank Darabont</name>
+        <movieCatalog>
+            <movie>
+                <title>The Shawshank Redemption</title>
+                <duration>02:22:00</duration>
+                <description>Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.</description>
+                <rating>9.3</rating>
+                <numberRatings>2419510</numberRatings>
+                <popularity>63</popularity>
+                <year>1994</year>
+                <directors>
+                    <name>Frank Darabont</name>
+                </directors>
+                <writers>
+                    <name>Stephen King</name>
+                    <name>Frank Darabont</name>
+                </writers>
+                <cast>
+                    <name>Tim Robbins</name>
+                    <name>Morgan Freeman</name>
+                    <name>Bob Gunton</name>
+                </cast>
+            </movie>
+        </movieCatalog>
+    </directorMovies>
+    <directorMovies>
+        <name>Francis Ford Coppola</name>
+        <movieCatalog>
+            <movie>
+                <title>The Godfather</title>
+                <duration>02:55:00</duration>
+                <description>An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.</description>
+                <rating>9.1</rating>
+                <numberRatings>1673284</numberRatings>
+                <popularity>53</popularity>
+                <year>1972</year>
+                <directors>
+                    <name>Francis Ford Coppola</name>
+                </directors>
+                <writers>
+                    <name>Mario Puzo</name>
+                    <name>Francis Ford Coppola</name>
+                </writers>
+                <cast>
+                    <name>Marlon Brando</name>
+                    <name>Al Pacino</name>
+                    <name>James Caan</name>
+                </cast>
+            </movie>
+            <movie>
+                <title>The Godfather: Part II</title>
+                <duration>03:22:00</duration>
+                <description>The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.</description>
+                <rating>9.0</rating>
+                <numberRatings>1162071</numberRatings>
+                <popularity>172</popularity>
+                <year>1974</year>
+                <directors>
+                    <name>Francis Ford Coppola</name>
+                </directors>
+                <writers>
+                    <name>Mario Puzo</name>
+                    <name>Francis Ford Coppola</name>
+                </writers>
+                <cast>
+                    <name>Al Pacino</name>
+                    <name>Robert De Niro</name>
+                    <name>Robert Duvall</name>
+                </cast>
+            </movie>
+        </movieCatalog>
+    </directorMovies>
+    <directorMovies>
+        <name>Sidney Lumet</name>
+        <movieCatalog>
+            <movie>
+                <title>12 Angry Men</title>
+                <duration>01:36:00</duration>
+                <description>A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.</description>
+                <rating>8.9</rating>
+                <numberRatings>712822</numberRatings>
+                <popularity>514</popularity>
+                <year>1957</year>
+                <directors>
+                    <name>Sidney Lumet</name>
+                </directors>
+                <writers>
+                    <name>Reginald Rose</name>
+                </writers>
+                <cast>
+                    <name>Henry Fonda</name>
+                    <name>Lee J. Cobb</name>
+                    <name>Martin Balsam</name>
+                </cast>
+            </movie>
+        </movieCatalog>
+    </directorMovies>
+    <directorMovies>
+        <name>Steven Spielberg</name>
+        <movieCatalog>
+            <movie>
+                <title>Schindler's List</title>
+                <duration>03:15:00</duration>
+                <description>In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.</description>
+                <rating>8.9</rating>
+                <numberRatings>1245291</numberRatings>
+                <popularity>317</popularity>
+                <year>1993</year>
+                <directors>
+                    <name>Steven Spielberg</name>
+                </directors>
+                <writers>
+                    <name>Thomas Keneally</name>
+                    <name>Steven Zaillian</name>
+                </writers>
+                <cast>
+                    <name>Liam Neeson</name>
+                    <name>Ralph Fiennes</name>
+                    <name>Ben Kingsley</name>
+                </cast>
+            </movie>
+        </movieCatalog>
+    </directorMovies>
+    <directorMovies>
+        <name>Quentin Tarantino</name>
+        <movieCatalog>
+            <movie>
+                <title>Pulp Fiction</title>
+                <duration>02:34:00</duration>
+                <description>The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.</description>
+                <rating>8.9</rating>
+                <numberRatings>1877414</numberRatings>
+                <popularity>68</popularity>
+                <year>1994</year>
+                <directors>
+                    <name>Quentin Tarantino</name>
+                </directors>
+                <writers>
+                    <name>Roger Avary</name>
+                </writers>
+                <cast>
+                    <name>John Travolta</name>
+                    <name>Uma Thurman</name>
+                    <name>Samuel L. Jackson</name>
+                </cast>
+            </movie>
+        </movieCatalog>
+    </directorMovies>
+    <stats>
+        <numberDirectors>2</numberDirectors>
+        <directors>
+            <name>Francis Ford Coppola</name>
+            <name>Frank Darabont</name>
+        </directors>
+    </stats>
+</directorList>

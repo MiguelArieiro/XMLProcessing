@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<movieCatalog>
+    <movie>
+        <title>The Shawshank Redemption</title>
+        <duration>02:22:00</duration>
+        <description>Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.</description>
+        <rating>9.3</rating>
+        <numberRatings>2419510</numberRatings>
+        <popularity>63</popularity>
+        <year>1994</year>
+        <directors>
+            <name>Frank Darabont</name>
+        </directors>
+        <writers>
+            <name>Stephen King</name>
+            <name>Frank Darabont</name>
+        </writers>
+        <cast>
+            <name>Tim Robbins</name>
+            <name>Morgan Freeman</name>
+            <name>Bob Gunton</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>The Godfather</title>
+        <duration>02:55:00</duration>
+        <description>An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.</description>
+        <rating>9.1</rating>
+        <numberRatings>1673284</numberRatings>
+        <popularity>53</popularity>
+        <year>1972</year>
+        <directors>
+            <name>Francis Ford Coppola</name>
+        </directors>
+        <writers>
+            <name>Mario Puzo</name>
+            <name>Francis Ford Coppola</name>
+        </writers>
+        <cast>
+            <name>Marlon Brando</name>
+            <name>Al Pacino</name>
+            <name>James Caan</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>The Godfather: Part II</title>
+        <duration>03:22:00</duration>
+        <description>The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.</description>
+        <rating>9.0</rating>
+        <numberRatings>1162071</numberRatings>
+        <popularity>172</popularity>
+        <year>1974</year>
+        <directors>
+            <name>Francis Ford Coppola</name>
+        </directors>
+        <writers>
+            <name>Mario Puzo</name>
+            <name>Francis Ford Coppola</name>
+        </writers>
+        <cast>
+            <name>Al Pacino</name>
+            <name>Robert De Niro</name>
+            <name>Robert Duvall</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>The Dark Knight</title>
+        <duration>02:32:00</duration>
+        <description>When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.</description>
+        <rating>9.0</rating>
+        <numberRatings>2376876</numberRatings>
+        <popularity>107</popularity>
+        <year>2008</year>
+        <directors>
+            <name>Christopher Nolan</name>
+        </directors>
+        <writers>
+            <name>Jonathan Nolan</name>
+            <name>Christopher Nolan</name>
+            <name>David S. Goyer</name>
+            <name>Bob Kane</name>
+        </writers>
+        <cast>
+            <name>Christian Bale</name>
+            <name>Heath Ledger</name>
+            <name>Aaron Eckhart</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>12 Angry Men</title>
+        <duration>01:36:00</duration>
+        <description>A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.</description>
+        <rating>8.9</rating>
+        <numberRatings>712822</numberRatings>
+        <popularity>514</popularity>
+        <year>1957</year>
+        <directors>
+            <name>Sidney Lumet</name>
+        </directors>
+        <writers>
+            <name>Reginald Rose</name>
+        </writers>
+        <cast>
+            <name>Henry Fonda</name>
+            <name>Lee J. Cobb</name>
+            <name>Martin Balsam</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>Schindler's List</title>
+        <duration>03:15:00</duration>
+        <description>In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.</description>
+        <rating>8.9</rating>
+        <numberRatings>1245291</numberRatings>
+        <popularity>317</popularity>
+        <year>1993</year>
+        <directors>
+            <name>Steven Spielberg</name>
+        </directors>
+        <writers>
+            <name>Thomas Keneally</name>
+            <name>Steven Zaillian</name>
+        </writers>
+        <cast>
+            <name>Liam Neeson</name>
+            <name>Ralph Fiennes</name>
+            <name>Ben Kingsley</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>The Lord of the Rings: The Return of the King</title>
+        <duration>03:21:00</duration>
+        <description>Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.</description>
+        <rating>8.9</rating>
+        <numberRatings>1683962</numberRatings>
+        <popularity>330</popularity>
+        <year>2003</year>
+        <directors>
+            <name>Peter Jackson</name>
+        </directors>
+        <writers>
+            <name>J.R.R. Tolkien</name>
+            <name>Fran Walsh</name>
+            <name>Philippa Boyens</name>
+            <name>Peter Jackson</name>
+        </writers>
+        <cast>
+            <name>Elijah Wood</name>
+            <name>Viggo Mortensen</name>
+            <name>Ian McKellen</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>Pulp Fiction</title>
+        <duration>02:34:00</duration>
+        <description>The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.</description>
+        <rating>8.9</rating>
+        <numberRatings>1877414</numberRatings>
+        <popularity>68</popularity>
+        <year>1994</year>
+        <directors>
+            <name>Quentin Tarantino</name>
+        </directors>
+        <writers>
+            <name>Roger Avary</name>
+        </writers>
+        <cast>
+            <name>John Travolta</name>
+            <name>Uma Thurman</name>
+            <name>Samuel L. Jackson</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>The Good, the Bad and the Ugly</title>
+        <duration>02:58:00</duration>
+        <description>A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.</description>
+        <rating>8.8</rating>
+        <numberRatings>705112</numberRatings>
+        <popularity>597</popularity>
+        <year>1966</year>
+        <directors>
+            <name>Sergio Leone</name>
+        </directors>
+        <writers>
+            <name>Luciano Vincenzoni</name>
+            <name>Sergio Leone</name>
+            <name>Agenore Incrocci</name>
+            <name>Furio Scarpelli</name>
+        </writers>
+        <cast>
+            <name>Clint Eastwood</name>
+            <name>Eli Wallach</name>
+            <name>Lee Van Cleef</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>The Lord of the Rings: The Fellowship of the Ring</title>
+        <duration>02:58:00</duration>
+        <description>A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.</description>
+        <rating>8.8</rating>
+        <numberRatings>1705051</numberRatings>
+        <popularity>103</popularity>
+        <year>2001</year>
+        <directors>
+            <name>Peter Jackson</name>
+        </directors>
+        <writers>
+            <name>J.R.R. Tolkien</name>
+            <name>Fran Walsh</name>
+            <name>Philippa Boyens</name>
+            <name>Peter Jackson</name>
+        </writers>
+        <cast>
+            <name>Elijah Wood</name>
+            <name>Ian McKellen</name>
+            <name>Orlando Bloom</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>Fight Club</title>
+        <duration>02:19:00</duration>
+        <description>n insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.</description>
+        <rating>8.8</rating>
+        <numberRatings>1908176</numberRatings>
+        <popularity>147</popularity>
+        <year>1999</year>
+         <directors>
+            <name>David Fincher</name>
+        </directors>
+        <writers>
+            <name>Chuck Palahniuk</name>
+            <name>Jim Uhls</name>
+        </writers>
+        <cast>
+            <name>Brad Pitt</name>
+            <name>Edward Norton</name>
+            <name>Meat Loaf</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>Forrest Gump</title>
+        <duration>02:22:00</duration>
+        <description>The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.</description>
+        <rating>8.7</rating>
+        <numberRatings>1868988</numberRatings>
+        <popularity>115</popularity>
+        <year>1994</year>
+        <directors>
+            <name>Robert Zemeckis</name>
+        </directors>
+        <writers>
+            <name>Winston Groom</name>
+            <name>Eric Roth</name>
+        </writers>
+        <cast>
+            <name>Tom Hanks</name>
+            <name>Robin Wright</name>
+            <name>Gary Sinise</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>Inception</title>
+        <duration>02:28:00</duration>
+        <description>A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.</description>
+        <rating>8.7</rating>
+        <numberRatings>2133360</numberRatings>
+        <popularity>137</popularity>
+        <year>2010</year>
+        <directors>
+            <name>Christopher Nolan</name>
+        </directors>
+        <writers>
+            <name>Christopher Nolan</name>
+        </writers>
+        <cast>
+            <name>Leonardo DiCaprio</name>
+            <name>Joseph Gordon-Levitt</name>
+            <name>Elliot Page</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>The Lord of the Rings: The Two Towers</title>
+        <duration>02:59:00</duration>
+        <description>While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.</description>
+        <rating>8.7</rating>
+        <numberRatings>1522528</numberRatings>
+        <popularity>492</popularity>
+        <year>2002</year>
+        <directors>
+            <name>Peter Jackson</name>
+        </directors>
+        <writers>
+            <name>J.R.R. Tolkien</name>
+            <name>Fran Walsh</name>
+            <name>Philippa Boyens</name>
+            <name>Stephen Sinclair</name>
+            <name>Peter Jackson</name>
+        </writers>
+        <cast>
+            <name>Elijah Wood</name>
+            <name>Ian McKellen</name>
+            <name>Viggo Mortensen</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>Star Wars: Episode V - The Empire Strikes Back</title>
+        <duration>02:04:00</duration>
+        <description>After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.</description>
+        <rating>8.7</rating>
+        <numberRatings>1186565</numberRatings>
+        <popularity>792</popularity>
+        <year>1980</year>
+        <directors>
+            <name>Irvin Kershner</name>
+        </directors>
+        <writers>
+            <name>Leigh Brackett</name>
+            <name>Lawrence Kasdan</name>
+            <name>George Lucas</name>
+        </writers>
+        <cast>
+            <name>Mark Hamill</name>
+            <name>Harrison Ford</name>
+            <name>Carrie Fisher</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>The Matrix</title>
+        <duration>02:16:00</duration>
+        <description>When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.</description>
+        <rating>8.6</rating>
+        <numberRatings>1724202</numberRatings>
+        <popularity>148</popularity>
+        <year>1999</year>
+        <directors>
+            <name>Lana Wachowski</name>
+            <name>Lilly Wachowski</name>
+        </directors>
+        <writers>
+            <name>Lilly Wachowski</name>
+            <name>Lana Wachowski</name>
+        </writers>
+        <cast>
+            <name>Keanu Reeves</name>
+            <name>Laurence Fishburne</name>
+            <name>Carrie-Anne Moss</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>Goodfellas</title>
+        <duration>02:26:00</duration>
+        <description>The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.</description>
+        <rating>8.6</rating>
+        <numberRatings>1051401</numberRatings>
+        <popularity>151</popularity>
+        <year>1990</year>
+        <directors>
+            <name>Martin Scorsese</name>
+        </directors>
+        <writers>
+            <name>Nicholas Pileggi</name>
+            <name>Martin Scorsese</name>
+        </writers>
+        <cast>
+            <name>Robert De Niro</name>
+            <name>Ray Liotta</name>
+            <name>Joe Pesci</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>One Flew Over the Cuckoo&#x27;s Nest</title>
+        <duration>02:13:00</duration>
+        <description>A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.</description>
+        <rating>8.6</rating>
+        <numberRatings>939542</numberRatings>
+        <popularity>522</popularity>
+        <year>1975</year>
+        <directors>
+            <name>Milos Forman</name>
+        </directors>
+        <writers>
+            <name>Milos Forman</name>
+            <name>Bo Goldman</name>
+            <name>Ken Kesey</name>
+            <name>Dale Wasserman</name>
+        </writers>
+        <cast>
+            <name>Jack Nicholson</name>
+            <name>Louise Fletcher</name>
+            <name>Michael Berryman</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>Seven Samurai</title>
+        <duration>03:27:00</duration>
+        <description>A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.</description>
+        <rating>8.6</rating>
+        <numberRatings>323485</numberRatings>
+        <popularity>1322</popularity>
+        <year>1954</year>
+        <directors>
+            <name>Akira Kurosawa</name>
+        </directors>
+        <writers>
+            <name>Akira Kurosawa</name>
+            <name>Shinobu Hashimoto</name>
+            <name>Hideo Oguni</name>
+        </writers>
+        <cast>
+            <name>Toshirô Mifune</name>
+            <name>Takashi Shimura</name>
+            <name>Keiko Tsushima</name>
+        </cast>
+    </movie>
+    <movie>
+        <title>Se7en</title>
+        <duration>02:07:00</duration>
+        <description>Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.</description>
+        <rating>8.6</rating>
+        <numberRatings>1489838</numberRatings>
+        <popularity>253</popularity>
+        <year>1995</year>
+        <directors>
+            <name>David Fincher</name>
+        </directors>
+        <writers>
+            <name>Andrew Kevin Walker</name>
+        </writers>
+        <cast>
+            <name>Morgan Freeman</name>
+            <name>Brad Pitt</name>
+            <name>Kevin Spacey</name>
+        </cast>
+    </movie>
+</movieCatalog>
+
+<!-- java -jar trang.jar movielist.xml movielist.xsd-->
+<!--"C:\Program Files\AdoptOpenJDK\jdk-8.0.292.10-hotspot\bin\xjc.exe" movielist.xsd -d ".\src\main\java\gen2"-->

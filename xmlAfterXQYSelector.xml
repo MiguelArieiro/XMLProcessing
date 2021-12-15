@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movieCatalog>
+   <movie>
+      <title>The Lord of the Rings: The Fellowship of the Ring</title>
+      <duration>02:58:00</duration>
+      <description>A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.</description>
+      <rating>8.8</rating>
+      <numberRatings>1705051</numberRatings>
+      <popularity>103</popularity>
+      <year>2001</year>
+      <directors>
+         <name>Peter Jackson</name>
+      </directors>
+      <writers>
+         <name>J.R.R. Tolkien</name>
+         <name>Fran Walsh</name>
+         <name>Philippa Boyens</name>
+         <name>Peter Jackson</name>
+      </writers>
+      <cast>
+         <name>Elijah Wood</name>
+         <name>Ian McKellen</name>
+         <name>Orlando Bloom</name>
+      </cast>
+   </movie>
+</movieCatalog>
+
